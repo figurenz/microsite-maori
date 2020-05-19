@@ -1,0 +1,15 @@
+<nav class="main-nav">
+    <span class="menu-icon-close"><i class="fa fa-times" aria-hidden="true"></i></span>
+    <ul>
+        <li><a href="{{site.baseurl}}{% link index.md %}">Home</a></li>
+        <li><a href="{{site.baseurl}}{% link about.md %}">About</a></li>
+        <li><a><em>Understanding Charts</em></a></li>
+        {% for guide in site.guides %}
+            <li><a href="{{ guide.url | relative_url }}">{{ guide.title }}</a></li>
+        {% endfor %}
+        <li><a><em>Reference Guides</em></a></li>
+        {% for reference in site.references %}
+            <li><a href="{{ guide.url | relative_url }}">{{ reference.title }}</a></li>
+        {% endfor %}
+    </ul>
+</nav>

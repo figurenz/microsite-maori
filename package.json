@@ -1,0 +1,19 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "Places is a Jekyll-based website that enables people to find data about their territorial authority.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WikiNewZealand/learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WikiNewZealand/learn/issues"
+  },
+  "homepage": "https://github.com/WikiNewZealand/learn#readme"
+}

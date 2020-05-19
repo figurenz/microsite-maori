@@ -1,0 +1,35 @@
+title: Māori Data
+subtitle: Learn about data, open data, and data visualisation.
+description: Find and use stats and data about cities, districts, and councils all over New Zealand to help you decide in the 2019 Local Elections.
+analytics: false
+
+collections:
+  economics:
+    output: true
+  topics:
+    output: true
+
+markdown: kramdown
+
+sass:
+    style: compressed
+    load_paths:
+      - assets/adam-blog/assets/css/sass
+
+include:
+  - .htaccess
+  - assets/css/main.scss
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - assets/adam-blog/*.html
+  - assets/adam-blog/*.json
+  - assets/adam-blog/*.md
+  - assets/adam-blog/gulpfile.js
+  - assets/adam-blog/LICENSE
+  - assets/adam-blog/assets/css
+  - assets/adam-blog/assets/img
+  - assets/adam-blog/assets/js/jquery-3.2.1.min.js

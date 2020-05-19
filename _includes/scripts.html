@@ -1,0 +1,15 @@
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="{{ '/assets/adam-blog/assets/js/main.js' | relative_url }}"></script>
+<script src="{{ '/assets/adam-blog/assets/js/jekyll-search.js' | relative_url }}"></script>
+<script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: "{{ '/search.json' | relative_url }}",
+      searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+      noResultsText: 'No results found',
+      fuzzy: false,
+      exclude: ['Welcome']
+    });
+  </script>
+<script src="{{ '/assets/js/find-your-place.js' | relative_url }}"></script>
