@@ -107,7 +107,18 @@ nav  .main- {
   .post-card-box {
     margin-top: 50px;
     margin-bottom: 0px;
-
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    .site-options {
+      padding: 2em;
+      img {
+        max-width: 200px;
+      }
+      .caption {
+        padding: 1em;
+      }
+    }
     .post-card {
       margin: 0.5em 1em;
       box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
@@ -134,17 +145,6 @@ nav  .main- {
     }
     .post-card:hover {
       box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
-    }
-  }
-  .image-row {
-    display: flex;
-    flex-direction: row;
-    align-items: safe center;
-    img {
-      max-width: 200px;
-    }
-    .caption {
-      padding: 1em;
     }
   }
 }
@@ -582,6 +582,16 @@ a:hover {
     input.email, input.button {
         width: 80%;
         margin-bottom: 5px;
+    }
+  }
+}
+
+@media (min-width: 1400px) {
+  .wrapper {
+    width: 1600px;
+    .post-card-box li {
+      width: 100%;
+      max-width: 400px;
     }
   }
 }
