@@ -2,7 +2,7 @@
 layout: content
 data: about
 title: About
-isHome: true
+isHome: false
 ---
 
 # About TBC Maori data page name
