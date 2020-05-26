@@ -5,9 +5,9 @@ title: About
 isHome: false
 ---
 
-# About TBC Maori data page name
+# About Pataka Rauranga
 
-Learn with Figure.NZ is a free tool to help Māori access data and develop data skills to support their mahi.
+Pataka Rauranga is a free tool to help Māori access data and develop data skills to support their mahi.
 
 You'll find a range of data about Māori and Māori issues, and resources to help you understand and use the data.
 
@@ -15,7 +15,7 @@ Can't find what you're looking for? Email us at <help@figure.nz> and let us know
 
 ## Who made this?
 
-Learn with Figure.NZ is brought to you by [Figure.NZ](https://figure.nz). This project is supported by our friends at [Internet NZ](https://internetnz.nz). We are very grateful for both their support and their shared passion for helping the people of New Zealand to access and use information and technology.
+Pataka Rauranga is brought to you by [Figure.NZ](https://figure.nz). This project is supported by our friends at [Callahgan Innovation](https://www.callaghaninnovation.govt.nz/access-experts/maori-economy). We are very grateful for both their support and their shared passion for Māori wellbeing and economic success.
 
 Illustrations are made using the [Humaaans illustration library](https://www.humaaans.com/). We thank them for sharing such a useful tool under Creative Commons licensing.
 

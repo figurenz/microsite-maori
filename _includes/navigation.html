@@ -3,13 +3,11 @@
     <ul>
         <li><a href="{{site.baseurl}}{% link index.md %}">Home</a></li>
         <li><a href="{{site.baseurl}}{% link about.md %}">About</a></li>
-        <li><a><em>Understanding Charts</em></a></li>
-        {% for guide in site.guides %}
-            <li><a href="{{ guide.url | relative_url }}">{{ guide.title }}</a></li>
-        {% endfor %}
-        <li><a><em>Reference Guides</em></a></li>
-        {% for reference in site.references %}
-            <li><a href="{{ guide.url | relative_url }}">{{ reference.title }}</a></li>
+        <li><a href="{{site.baseurl}}{% link tools.md %}">Tools</a></li>
+        <li><a href="{{site.baseurl}}{% link reports.md %}">Reports</a></li>
+        <li><a><em>Topics</em></a></li>
+        {% for topic in site.topics %}
+            <li><a href="{{ topic.link | relative_url }}">{{ topic.title }}</a></li>
         {% endfor %}
     </ul>
 </nav>

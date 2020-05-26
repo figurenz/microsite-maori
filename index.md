@@ -22,11 +22,3 @@ isHome: true
         </li>
     {% endfor %} 
 </ol>
-
-## Tools
-
-<a href="{{site.baseurl}}/tools">Link to tools page</a>
-
-## Reports
-
-<a href="{{site.baseurl}}/reports">Link to reports page</a>
