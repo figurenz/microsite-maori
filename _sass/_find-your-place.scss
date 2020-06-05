@@ -147,6 +147,21 @@ nav  .main- {
       box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
     }
   }
+  .pagemenu {
+    display: flex;
+    flex-direction: column;
+    div {
+      margin: auto;
+      padding: 2em;
+      max-width: 60%;
+      p {
+        text-align: left;
+      }
+    }
+    a {
+      text-decoration: none;
+    }
+  }
 }
 
 a {
@@ -159,6 +174,24 @@ a:visited {
 
 a:hover {
   color: $header-colour;
+}
+
+.close-button {
+  border-radius: 5px;
+  padding: .5em 1em;
+  margin-bottom: .5em;
+  box-sizing: border-box;
+  background: $button-colour;
+  border-color: disintensify($button-colour);
+  color: $white;
+  font-family: $h3-font-family;
+  text-decoration: none;
+
+  &:not([disabled]):hover {
+    border-color: $button-colour;
+    background: intensify($button-colour);
+    text-decoration: none;
+  }
 }
 
 .article-page {
@@ -236,23 +269,23 @@ a:hover {
       display: inline-flex;
       }
    
-    .close-button {
-      border-radius: 5px;
-      padding: .5em 1em;
-      margin-bottom: .5em;
-      box-sizing: border-box;
-      background: $button-colour;
-      border-color: disintensify($button-colour);
-      color: $white;
-      font-family: $h3-font-family;
-      text-decoration: none;
-    
-      &:not([disabled]):hover {
-        border-color: $button-colour;
-        background: intensify($button-colour);
+      .close-button {
+        border-radius: 5px;
+        padding: .5em 1em;
+        margin-bottom: .5em;
+        box-sizing: border-box;
+        background: $button-colour;
+        border-color: disintensify($button-colour);
+        color: $white;
+        font-family: $h3-font-family;
         text-decoration: none;
+      
+        &:not([disabled]):hover {
+          border-color: $button-colour;
+          background: intensify($button-colour);
+          text-decoration: none;
+        }
       }
-    }
 
     .download-list {
       list-style: none;
@@ -468,7 +501,7 @@ a:hover {
   .home-section {
     padding-top: 66px;
     .header-badge {
-      margin-top: -50px;
+      margin-top: -70px;
     }
     h1 {
       font-size: $h3-font-size;
@@ -534,6 +567,13 @@ a:hover {
       }
     }
   }
+  .content {
+    .pagemenu {
+      div {
+        max-width: 80%;
+      }
+    }
+  }
 }
 
 .banner {
@@ -545,43 +585,13 @@ a:hover {
   }
 }
 
-
-
-#mc_embed_signup {
-  color: white;
-  padding-top: 1em;
-  clear: left; 
-  width:100%;
-  form {
-    display: flex;
-    flex-direction: column;
-    .clear {
-      display: block;
-      width: 100%;
-    }
-    #mce-EMAIL {
-      font-family: $h3-font-family;
-    }
-  }
-  input {
-    font-family: $h3-font-family;
-  }
-  .button {
-    background-color: #BA0A87;
-    font-size: 1em;
-    height: auto;
-    padding: .3em;
-  }
-  .button:hover {
-    background-color: rgb(148, 6, 108);
-  }
-}
-
 @media (min-width: 769px) {
-  #mc_embed_signup {
-    input.email, input.button {
-        width: 80%;
-        margin-bottom: 5px;
+  .content {
+    .pagemenu {
+      flex-direction: row;
+      div {
+        max-width: 60%;
+      }
     }
   }
 }
@@ -606,3 +616,4 @@ a:hover {
 .home-image {
   max-height: 50vh;
 }
+
