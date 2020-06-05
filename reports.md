@@ -102,7 +102,7 @@ Ministry of Health, last updated in 2015
 [Matauranga Māori and Science Hub](https://www.sciencelearn.org.nz/resources/2545-matauranga-maori-and-science)
 Science Learn, 2017
 
-# COVID-19
+## COVID-19
 
 [COVID-19 Maori Economic Impact](https://static.infometrics.co.nz/Content/Infometrics_M%C4%81ori_Webinar_Slide_Pack_2020-05-05.pdf)
 Infometrics, 2020
