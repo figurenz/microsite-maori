@@ -5,9 +5,9 @@ title: About
 isHome: false
 ---
 
-# About Pataka Rauranga
+# About Pātaka Rauranga
 
-Pataka Rauranga is a free tool to help Māori access data and develop data skills to support their mahi.
+Pātaka Rauranga is a free tool to help Māori access data and develop data skills to support their mahi.
 
 You'll find a range of data about Māori and Māori issues, and resources to help you understand and use the data.
 
@@ -15,7 +15,7 @@ Can't find what you're looking for? Email us at <help@figure.nz> and let us know
 
 ## Who made this?
 
-Pataka Rauranga is brought to you by [Figure.NZ](https://figure.nz). This project is supported by our friends in the Māori Economy team at [Callaghan Innovation](https://www.callaghaninnovation.govt.nz/access-experts/maori-economy). We are very grateful for both their support and their shared passion for Māori wellbeing and economic success.
+Pātaka Rauranga is brought to you by [Figure.NZ](https://figure.nz). This project is supported by our friends in the Māori Economy team at [Callaghan Innovation](https://www.callaghaninnovation.govt.nz/access-experts/maori-economy). We are very grateful for both their support and their shared passion for Māori wellbeing and economic success.
 
 Illustrations are made using the [Humaaans illustration library](https://www.humaaans.com/). We thank them for sharing such a useful tool under Creative Commons licensing.
 
