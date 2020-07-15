@@ -13,6 +13,9 @@ isHome: false
 [Value of the Census for Maori 2019](https://www.stats.govt.nz/assets/Uploads/Reports/Value-of-the-census-for-Maori/Value-of-the-census-for-Maori.pdf)
 Stats NZ, 2019
 
+[Economy of Mana - Where to next?](http://www.journal.mai.ac.nz/journal/mai-journal-2018-volume-7-issue-1)
+Kiri Dell, Nimbus Staniland, Amber Nicholson - Mai Journal, 2018
+
 ## Introduction to Māori Data Principles
 
 [Māori Data is a Taonga](https://www.taiuru.maori.nz/data-is-a-taonga/)
@@ -103,6 +106,9 @@ Ministry of Health, last updated in 2015
 Science Learn, 2017
 
 ## COVID-19
+
+[Ka whati te tai: a generation disrupted. The challenges and opportunities for Māori in the new work order post COVID-19](http://www.maorifutures.co.nz/wp-content/uploads/2020/06/Tokona-Te-Raki-Ka-whati-te-tai.pdf)
+Tokona Te Raki and BERL, 2020
 
 [COVID-19 Maori Economic Impact](https://static.infometrics.co.nz/Content/Infometrics_M%C4%81ori_Webinar_Slide_Pack_2020-05-05.pdf)
 Infometrics, 2020
