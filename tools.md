@@ -1,6 +1,6 @@
 ---
 layout: content
-data: about
+data: tools
 title:  Māori Data Tools
 subtitle: Explore Māori data using these tools
 isHome: false

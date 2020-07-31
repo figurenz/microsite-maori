@@ -1,6 +1,6 @@
 ---
 layout: content
-data: about
+data: reports
 title:  Māori Data Reports
 subtitle: Read reports written by experts on Māori data
 isHome: false

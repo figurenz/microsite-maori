@@ -33,6 +33,7 @@ $button-colour: $blurple;
   @return saturate(darken($color, 10%), 100)
 }
 
+$h1-font-size: 5em;
 $h2-font-size: 3em;
 $h3-font-size: 2em;
 $h4-font-size: 1.5em;
@@ -217,7 +218,7 @@ a:hover {
 
     h1 {
       font-family: $h1-font-family;
-      font-size: 4em;
+      font-size: $h1-font-size;
     }
 
     h2 {
@@ -424,7 +425,7 @@ a:hover {
   h1 {
     color: $white;
     font-family: $h1-font-family;
-    font-size: 3em;
+    font-size: $h1-font-size;
   }
   h2 {
     color: $white;
