@@ -1,8 +1,8 @@
 ---
 layout: default
 data: patakarauranga
-title:  Pātaka Raraunga
-subtitle: A place to find data for and about Māori
+title:  Find data for and about Māori.
+subtitle: Improve Māori wellbeing through better, data-informed decisions.
 isHome: true
 ---
 
