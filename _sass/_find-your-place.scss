@@ -77,6 +77,18 @@ nav  .main- {
   margin: auto;
 }
 
+.two-col-container {
+  display: flex;
+  margin: 10em;
+  .two-col-card {
+    flex: 1 1 50%;
+    justify-content: center;
+    display: flex;
+    flex-flow: column;
+    padding: 5em;
+  }
+}
+
 .content {
   padding-bottom: 4em;
   text-align: left;
@@ -423,7 +435,8 @@ a:hover {
 }
 
 .home-section {
-  background: $blurple;
+  // background: $blurple;
+  background-image: url('/assets/img/layout/woven.png');
   padding: 4rem 0 1rem;
   text-align: center;
 
