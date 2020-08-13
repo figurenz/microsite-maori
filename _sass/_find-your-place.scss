@@ -85,7 +85,38 @@ nav  .main- {
     justify-content: center;
     display: flex;
     flex-flow: column;
-    padding: 5em;
+    padding: 5em 0em;
+  }
+  .two-col-card.text {
+    margin: 0 3em;
+  }
+}
+
+.categories-container {
+  display: flex;
+  flex-flow: row wrap;
+  margin-bottom: 1rem;
+  .categories-card {
+    border: solid 1px $dark-slate;
+    border-radius: 3px;
+    display: flex;
+    flex: 0 1 calc(50% - 2rem);
+    padding: 2rem;
+    margin: 1rem;
+    transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+    transition-property: all;
+    transition-duration: 0.4s;
+    transition-timing-function: cubic-bezier(0.25, 0.8, 0.25, 1);
+    transition-delay: 0s;
+    .categories-image {
+      display: flex;
+      align-items: center;
+      flex: 0 0 150px;
+      margin-right: 2rem;
+    }
+    a {
+      text-decoration: none;
+    }
   }
 }
 
@@ -108,12 +139,14 @@ nav  .main- {
     font-family: $h3-font-family;
     font-size: $h3-font-size;
     color: $slate;
+    font-weight: 600;
   }
 
   h4 {
     font-family: $h4-font-family;
     font-size: $h4-font-size;
     color: $header-colour;
+    font-weight: 600;
   }
 
   p {
@@ -165,21 +198,9 @@ nav  .main- {
       box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
     }
   }
-  .pagemenu {
-    display: flex;
-    flex-direction: column;
-    div {
-      margin: auto;
-      padding: 2em;
-      max-width: 60%;
-      p {
-        text-align: left;
-      }
-    }
-    a {
-      text-decoration: none;
-    }
-  }
+}
+.content.categories>h2 {
+  text-align: center;
 }
 
 a {
@@ -435,8 +456,7 @@ a:hover {
 }
 
 .home-section {
-  // background: $blurple;
-  background-image: url('/assets/img/layout/woven.png');
+  background: $blurple;
   padding: 4rem 0 1rem;
   text-align: center;
 
@@ -586,13 +606,6 @@ a:hover {
       }
     }
   }
-  .content {
-    .pagemenu {
-      div {
-        max-width: 80%;
-      }
-    }
-  }
 }
 
 .banner {
@@ -601,17 +614,6 @@ a:hover {
   color: white;
   a {
     color: white;
-  }
-}
-
-@media (min-width: 769px) {
-  .content {
-    .pagemenu {
-      flex-direction: row;
-      div {
-        max-width: 60%;
-      }
-    }
   }
 }
 
