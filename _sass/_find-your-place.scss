@@ -49,7 +49,7 @@ main {
     background-color: $white;
   }
   p {
-    max-width: 75ch;
+    max-width: 70ch;
   }
   section {
     padding-top: 1em;
@@ -91,6 +91,7 @@ nav  .main- {
 
 .two-col-container {
   display: flex;
+  // flex-flow: row wrap;
   .two-col-card {
     flex: 1 1 50%;
     justify-content: center;
@@ -108,13 +109,15 @@ nav  .main- {
     object-fit: cover;
   }
 }
+.two-col-container.reverse {
+  flex-direction: row-reverse;
+}
 
 .categories-container {
   display: flex;
   flex-flow: row wrap;
   margin: 4rem 0 1rem 0;
   .categories-card {
-    // border: solid 1px $dark-slate;
     border-radius: 3px;
     display: flex;
     flex: 0 1 calc(50% - 2rem);
@@ -128,8 +131,7 @@ nav  .main- {
     .categories-image {
       display: flex;
       align-items: center;
-      flex: 0 0 170px;
-      // margin-right: 2rem;
+      flex: 0 0 30%;
     }
     a {
       text-decoration: none;
@@ -222,7 +224,7 @@ nav  .main- {
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
   }
 }
-.content.categories>h2 {
+.content.categories h2 {
   text-align: center;
 }
 
@@ -557,6 +559,21 @@ a:hover {
   }
 }
 
+@media only screen and (max-width: 850px) {
+  .categories-container {
+    .categories-card {
+      flex-direction: column;
+      padding: 2rem 1rem;
+      div {
+        text-align: center;
+      }
+      a {
+          margin: auto;
+      }
+    }
+  }
+}
+
 @media only screen and (max-width: 650px) {
   #home {
     margin-top: 10px;
@@ -629,6 +646,18 @@ a:hover {
         font-size: 16px;
       }
     }
+  }
+  .wrapper {
+    padding: 1rem;
+  }
+  .categories-container, .two-col-container, .two-col-container.two-col-container.reverse {
+    flex-direction: column;
+  }
+  .two-col-container .two-col-card.text {
+    margin: 0;
+  }
+  .two-col-container .two-col-card {
+    padding: 1em 0;
   }
 }
 
