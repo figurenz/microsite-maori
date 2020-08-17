@@ -33,7 +33,7 @@ $button-colour: $blurple;
   @return saturate(darken($color, 10%), 100)
 }
 
-$h1-font-size: 5em;
+$h1-font-size: 4em;
 $h2-font-size: 3em;
 $h3-font-size: 2em;
 $h4-font-size: 1.5em;
@@ -64,6 +64,7 @@ main {
   }
 
   .logo {
+    margin: .5em;
     a {
       color: $menu-header-colour;
       font-family: $menu-header-font-family;
@@ -75,7 +76,7 @@ main {
       color: $menu-header-colour;
     }
   }
-
+  
 nav  .main- {
     height: inherit !important;
     max-height: 100vh !important;
@@ -91,7 +92,7 @@ nav  .main- {
 
 .two-col-container {
   display: flex;
-  // flex-flow: row wrap;
+  padding-top: 1em;
   .two-col-card {
     flex: 1 1 50%;
     justify-content: center;
@@ -99,11 +100,19 @@ nav  .main- {
     flex-flow: column;
     padding: 5em 0em;
   }
+  .two-col-card.heading-card {
+    padding: 0em;
+    justify-content: normal;
+  }
   .two-col-card.text {
     margin: 0 3em;
-    p {
-      margin: 0;  
+    h1, p {
+      margin: 0;
+      line-height: normal;  
     }
+  }
+  .two-col-card.heading-card.text {
+    margin: 0 4em 0 0;
   }
   img {
     object-fit: cover;
@@ -496,9 +505,22 @@ a:hover {
     font-size: 2em;
   }
   .header-badge {
-    float: left;
-    margin-top: -60px;
     margin-left: -10px;
+  }
+  .content {
+    .pr-logo {
+      max-width: 300px;
+    }
+    .header-logo {
+      margin-top: 2em;
+      p {
+        color:  $white; 
+        margin: 0;   
+      }
+    }
+    .logos {
+      opacity: 80%;
+    }
   }
 }
 
@@ -572,6 +594,12 @@ a:hover {
       }
     }
   }
+  .two-col-container.heading-container {
+    flex-direction: column;
+  }
+  .main-header .wrapper {
+    padding: 0;
+  }
 }
 
 @media only screen and (max-width: 650px) {
@@ -579,16 +607,16 @@ a:hover {
     margin-top: 10px;
   }
   .home-section {
-    padding-top: 66px;
-    .header-badge {
-      margin-top: -70px;
-    }
+    padding-top: 30px;
     h1 {
       font-size: $h3-font-size;
     }
     h2 {
       font-size: $h4-font-size;
     }
+    .content .pr-logo {
+      max-width: 200px;
+  }
   }
   .article-page {
     .page-content {
@@ -671,6 +699,16 @@ a:hover {
 }
 
 @media (min-width: 1400px) {
+  .home-section {
+    h1 {
+    font-size: 5em;
+    }
+    .content {
+      .pr-logo {
+        max-width: 400px;
+      }
+    }
+}
   .wrapper {
     width: 1600px;
     .post-card-box li {
@@ -681,6 +719,13 @@ a:hover {
   .wrapper.text {
     width: 960px;
   }
+  .two-col-container {
+    .two-col-card.text {
+      h1 {
+        margin: 1em 0 0 0;
+      }
+    }
+  }  
 }
 
 .header-text {
