@@ -10,7 +10,7 @@ isHome: true
 
 <section class="gray-bg">
     <div class="content wrapper">
-        <h2 class="section-heading">Find data and charts on Te Ao Māori</h2>
+        <h2 class="section-heading">Find data and charts on Te Āo Māori</h2>
         <a name="topics"></a>
         <ol class="post-card-box clearfix">
             {% for topic in site.topics %}
