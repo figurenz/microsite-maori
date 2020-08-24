@@ -90,6 +90,11 @@ nav  .main- {
   margin: auto;
 }
 
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
 .two-col-container {
   display: flex;
   padding-top: 1em;
@@ -373,6 +378,7 @@ a:hover {
     }
 
     .header-badge {
+      width: 150%;
       float: right;
       margin-top: -41px;
       margin-right: -40px;
