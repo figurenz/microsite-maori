@@ -2,21 +2,21 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>{{ site.title }} - {{ page.display-name | default: page.data | default: page.title }} </title>
-    <meta name="description" content="{% if page.isHome != true %}Find and use stats and data about {{page.display-name | default: page.data | default: page.title}} and its Council to help you decide in the 2019 Local Elections{% else %}{{site.description}}{% endif %}">
+    <title>{{ site.title }} - {{site.subtitle}}</title>
+    <meta name="description" content="{{site.description}}">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta property="og:site_name" content="{{site.title | xml_escape}}">
     <meta property="og:title" content="{{site.title | xml_escape}}">
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{site.url | append: page.url | xml_escape}}">
-    <meta name="og:description" content="{% if page.isHome != true %}{{site.subtitle-ta | xml_escape}} {{page.display-name | default: page.data | default: page.title}}{% else %}{{site.subtitle | xml_escape}}{% endif %}">
-    <meta name="description" content="{% if page.isHome == true %}{{site.subtitle | xml_escape}}{% else %}{{site.subtitle-ta | xml_escape}} {{page.display-name | default: page.data | default: page.title}}{% endif %}">
+    <meta name="og:description" content="{{site.description}}">
+    <meta name="description" content="{{site.description}}">
     <meta name="twitter:site" content="@FigureNZ">
     <meta name="twitter:title" content="{{site.title | xml_escape}}">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:description" content="{% if page.isHome == true %}{{site.subtitle | xml_escape}}{% else %}{{site.subtitle-ta | xml_escape}} {{page.display-name | default: page.data | default: page.title}}{% endif %}">
-    <meta name="twitter:image" content="{% if page.isHome != true %}{{site.url}}/assets/img/tile/{{page.data}}.jpg{% else %}{{site.url}}/assets/img/tile/nz.jpg{% endif %}" >
+    <meta name="twitter:description" content="{{site.subtitle | xml_escape}}">
+    <meta name="twitter:image" content="{{site.url}}/assets/img/layout/home.png" >
     <meta name="apple-mobile-web-app-title" content="{{site.title | xml_escape}}" />
     <link rel="apple-touch-icon" href="{{site.baseurl}}/assets/img/favicons/AppleTouch.png" sizes="180x180">
     <link rel="icon" href="{{site.baseurl}}/assets/img/favicons/32x32.ico" sizes="32x32" type="image/png">
@@ -44,6 +44,9 @@
         </header>
 
         <main>
+            <div class="banner">
+                <div class="wrapper">Register for our free Zoom hui to learn more about {{site.title}} this Thursday at 3:30 PM NZDT. <a href="https://blog.figure.nz/a-new-home-for-m%C4%81ori-data-563fb3d01051">Register now</a></div>
+            </div>
             {% if page.isHome == true %}
             <section class="home-section">  
                     <div class="content wrapper">
