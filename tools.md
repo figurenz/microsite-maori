@@ -60,6 +60,10 @@ A collection of tools from Te Puni Kōkiri to help you realise the potential of 
 
 A Māori-led analytics and data platform enabling you to connect your people, land, and data.
 
+[Māori Maps](https://maorimaps.com/)
+
+Māori Maps helps to connect Māori descendants with their marae, and enable visitors to make appropriate contact with these centres of culture - in particular, linking Māori youth with their ancestral identity. It's administered by Te Potiki National Trust.
+
 ### Elections
 
 [Māori Wards Generalised 2020](https://catalogue.data.govt.nz/dataset/mori-ward-2020-generalised)
