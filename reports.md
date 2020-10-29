@@ -43,6 +43,9 @@ Māori Data Resources, policy briefs and publications
 [Iwi Leaders Data Group](https://iwichairs.maori.nz/)
 Part of the Iwi Chair Forum which was established in 2005. This group exists to help inform and guide Iwi leaders in the matters of data.  
 
+[IMSB Māori Values Report](https://www.imsb.maori.nz/value-reports/introduction/)
+Independent Māori Statutory Board's report on Māori values and wellbeing, and collecting and using data related to this.
+
 ## Te Ao Māori
 
 [Te Ao Māori Report](https://www.chapmantripp.com/Publication%20PDFs/2018%20CT%20Te%20Ao%20Maori%20-%20English.pdf)
