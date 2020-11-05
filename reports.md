@@ -48,7 +48,7 @@ Independent Māori Statutory Board's report on Māori values and wellbeing, and 
 
 ## Te Ao Māori
 
-[Te Ao Māori Report](https://www.chapmantripp.com/Publication%20PDFs/2018%20CT%20Te%20Ao%20Maori%20-%20English.pdf)
+[Te Ao Māori Report](https://chapmantripp.com/about-us/news/iwi-business-flourishing-more-benefits-for-members/)
 Chapman Tripp, 2018
 
 ## Economy
