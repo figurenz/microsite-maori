@@ -14,6 +14,11 @@ Know of a tool we've missed? Contact <data@figure.nz> and let us know.
 
 ## Tools
 
+### Iwi Data
+
+[Te Whata - Free Iwi data tool](https://tewhata.io)
+Te Whata is an iwi data platform tailored specifically by iwi for iwi – by us for us. Te Whata is for iwi members, technicians and leaders – designers and users of data.
+
 ### Figure.NZ
 
 [Figure.NZ website](https://figure.nz)

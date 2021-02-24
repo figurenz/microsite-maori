@@ -46,6 +46,9 @@ Part of the Iwi Chair Forum which was established in 2005. This group exists to 
 [IMSB Māori Values Report](https://www.imsb.maori.nz/value-reports/introduction/)
 Independent Māori Statutory Board's report on Māori values and wellbeing, and collecting and using data related to this.
 
+[IMSB Data Issues of Significance Report 2019](https://www.imsb.maori.nz/assets/sm/upload/pa/0z/vq/ww/IMSB%20Data%20Issues%202019_d.pdf?k=8451bdff4e)
+Independent Māori Statutory Board's report on issues related to data around Māori wellbeing in Tāmaki Makaurau
+
 ## Te Ao Māori
 
 [Te Ao Māori Report](https://chapmantripp.com/about-us/news/iwi-business-flourishing-more-benefits-for-members/)
@@ -59,8 +62,10 @@ Infometrics, 2020
 [Māori labour Market Trends](https://www.mbie.govt.nz/business-and-employment/employment-and-skills/labour-market-reports-data-and-analysis/other-labour-market-reports/maori-labour-market-trends/)
 MBIE, 2019
 
-[Māori Economy Report](https://berl.co.nz/research/understanding-maori-economy)
+[Understanding the Māori Economy](https://berl.co.nz/research/understanding-maori-economy)
 Berl, 2019
+A collection of reports and research from BERL on Te Ōhanga Māori. This includes:
+- [2018 Te Ōhanga Māori Report](https://berl.co.nz/sites/default/files/2021-01/Te%20Ōhanga%20Māori%202018.pdf)
 
 [Māori Business Report](https://www.bdo.nz/en-nz/insights/maori-business/bdo%E2%80%99s-2019-maori-business-report-the-key-takeaways)
 BDO, 2019
