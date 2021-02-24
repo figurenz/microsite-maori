@@ -62,8 +62,10 @@ Infometrics, 2020
 [Māori labour Market Trends](https://www.mbie.govt.nz/business-and-employment/employment-and-skills/labour-market-reports-data-and-analysis/other-labour-market-reports/maori-labour-market-trends/)
 MBIE, 2019
 
-[Māori Economy Report](https://berl.co.nz/research/understanding-maori-economy)
+[Understanding the Māori Economy](https://berl.co.nz/research/understanding-maori-economy)
 Berl, 2019
+A collection of reports and research from BERL on Te Ōhanga Māori. This includes:
+- [2018 Te Ōhanga Māori Report](https://berl.co.nz/sites/default/files/2021-01/Te%20Ōhanga%20Māori%202018.pdf)
 
 [Māori Business Report](https://www.bdo.nz/en-nz/insights/maori-business/bdo%E2%80%99s-2019-maori-business-report-the-key-takeaways)
 BDO, 2019
