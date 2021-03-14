@@ -56,6 +56,10 @@ Chapman Tripp, 2018. [2017 version](https://chapmantripp.com/media/j1slpr3f/te-a
 
 ## Economy
 
+[Te Matapaeroa 2019](https://www.tpk.govt.nz/en/a-matou-mohiotanga/business-and-economics/te-matapaeroa-2019)
+Te Puni Kōkiri, 2020
+This research outlines the number and breadth of economically significant Māori-owned businesses and provides a clearer picture of the contribution of Māori to the wider economy.
+
 [Māori Economic Insights](https://www.infometrics.co.nz/product/maori-economic-insights/)
 Infometrics, 2020
 
