@@ -43,7 +43,7 @@ A free tool to help you examine how employment may be impact by COVID-19. See ho
 
 Stats NZ's collection of data about Māori
 
-[Data for business](http://archive.stats.govt.nz/data-for-business/Home/dataforbusiness.aspx)
+[Data for business](https://www.stats.govt.nz/tools/data-for-business)
 
 A collection of Stats NZ tools for businesses.
 
