@@ -49,13 +49,11 @@ A collection of Stats NZ tools for businesses.
 
 ### Whenua | Land data tools
 
-[Māori Land Visualisation](https://www.landcareresearch.co.nz/resources/maps-satellites/maori-land-visualisation-tool)
-
-Landcare Research's tool to help Māori land owners make more informed decisions about how to use their land to support whanau and fulfil and balance its economic and cultural potential.
-
 [Whenua Viz](https://whenuaviz.landcareresearch.co.nz)
 
-A tool to help Māori land owners and managers find out more about the physical characteristics, constraints and potential of their whenua Māori.
+Landcare Research's tool to help Māori land owners make more informed decisions about how to use their land to support whanau and fulfil and balance its economic and cultural potential. 
+
+Whenua Viz helps Māori land owners and managers find out more about the physical characteristics, constraints and potential of their whenua Māori.
 
 [Tupu.NZ](https://www.tupu.nz/en)
 
