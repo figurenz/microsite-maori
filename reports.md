@@ -112,6 +112,10 @@ Ministry of Health
 [Māori Health Statistics](https://www.health.govt.nz/our-work/populations/maori-health/tatau-kahukura-maori-health-statistics)
 Ministry of Health, last updated in 2015
 
+[Gout insights – Impact on Māori](https://pharmac.govt.nz/about/access-equity/medicine-access-equity-monitoring-and-outcomes-framework/gout-insights-impact-on-maori/)
+Pharmac 2021
+Analysis and data on health inequities for Māori in access to funded gout medication.
+
 ## Innovation
 
 [Matauranga Māori and Science Hub](https://www.sciencelearn.org.nz/resources/2545-matauranga-maori-and-science)
