@@ -20,44 +20,54 @@ Kiri Dell, Nimbus Staniland, Amber Nicholson - Mai Journal, 2018
 
 [Māori Data is a Taonga](https://www.taiuru.maori.nz/data-is-a-taonga/)
 Karaitiana Taiuru, 2018
+
 Free eBook providing a customary Māori view of data as a taonga.
 
 [Maori Data Sovereignty](https://press.anu.edu.au/publications/series/centre-aboriginal-economic-policy-research-caepr/indigenous-data-sovereignty)
 Tahu Kukutai, John Taylor, 2016
+
 Free eBook looking at how the data rights and interests of indigenous peoples be secured? 
 
 [Treaty of Waitangi/Te Tiriti and Māori Ethics Guidelines for: AI, Algorithms, Data and IOT](https://www.taiuru.maori.nz/tiritiethicalguide/)
 Karaitiana Taiuru, 2020
+
 Free eBook examining Te Tiriti and Māori ethics for data and emerging technology.
 
 ## Helpful Websites on Māori Data
 
 [Te Mana Raraunga - Māori Data Sovereignty Network](https://www.temanararaunga.maori.nz/)
+
 This network of academics, researchers and data specialists and leaders advocate for Maori rights and interests in data to be protected, as the world moves increasingly into an open data environment.
 
 [Ngā Rauemi](https://www.temanararaunga.maori.nz/nga-rauemi)
+
 Māori Data Resources, policy briefs and publications
 
 [Directory of Māori Data Experts](https://www.temanararaunga.maori.nz/nga-matanga)
 
 [Iwi Leaders Data Group](https://iwichairs.maori.nz/)
+
 Part of the Iwi Chair Forum which was established in 2005. This group exists to help inform and guide Iwi leaders in the matters of data.  
 
 [IMSB Māori Values Report](https://www.imsb.maori.nz/value-reports/introduction/)
+
 Independent Māori Statutory Board's report on Māori values and wellbeing, and collecting and using data related to this.
 
 [IMSB Data Issues of Significance Report 2019](https://www.imsb.maori.nz/assets/sm/upload/pa/0z/vq/ww/IMSB%20Data%20Issues%202019_d.pdf?k=8451bdff4e)
+
 Independent Māori Statutory Board's report on issues related to data around Māori wellbeing in Tāmaki Makaurau
 
 ## Te Ao Māori
 
 [Te Ao Māori Report](https://chapmantripp.com/about-us/news/iwi-business-flourishing-more-benefits-for-members/)
-Chapman Tripp, 2018. [2017 version](https://chapmantripp.com/media/j1slpr3f/te-ao-maori-2017-english.pdf)
+Chapman Tripp, 2018. 
+[2017 version](https://chapmantripp.com/media/j1slpr3f/te-ao-maori-2017-english.pdf)
 
 ## Economy
 
 [Te Matapaeroa 2019](https://www.tpk.govt.nz/en/a-matou-mohiotanga/business-and-economics/te-matapaeroa-2019)
 Te Puni Kōkiri, 2020
+
 This research outlines the number and breadth of economically significant Māori-owned businesses and provides a clearer picture of the contribution of Māori to the wider economy.
 
 [Māori Economic Insights](https://www.infometrics.co.nz/product/maori-economic-insights/)
@@ -68,6 +78,7 @@ MBIE, 2019
 
 [Understanding the Māori Economy](https://berl.co.nz/research/understanding-maori-economy)
 Berl, 2019
+
 A collection of reports and research from BERL on Te Ōhanga Māori. This includes:
 - [2018 Te Ōhanga Māori Report](https://berl.co.nz/sites/default/files/2021-01/Te%20Ōhanga%20Māori%202018.pdf)
 
@@ -114,6 +125,7 @@ Ministry of Health, last updated in 2015
 
 [Gout insights – Impact on Māori](https://pharmac.govt.nz/about/access-equity/medicine-access-equity-monitoring-and-outcomes-framework/gout-insights-impact-on-maori/)
 Pharmac 2021
+
 Analysis and data on health inequities for Māori in access to funded gout medication.
 
 ## Innovation
