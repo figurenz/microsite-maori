@@ -33,6 +33,14 @@ Karaitiana Taiuru, 2020
 
 Free eBook examining Te Tiriti and Māori ethics for data and emerging technology.
 
+### [Te Kāhui Raraunga](https://www.kahuiraraunga.io/ngā-hua-i-resources)
+
+Research and papers from Te Kāhui Raraunga, an independent Māori data action group, including:
+
+- [Māori Data Governance Model](https://www.kahuiraraunga.io/_files/ugd/b8e45c_a5b7af8b688c4cd9b7583775c27da52e.pdf)
+- [Māori data sovereignty and offshoring Māori data](https://www.kahuiraraunga.io/_files/ugd/b8e45c_c035c550c8244c70a1025cd90a97298e.pdf)
+- [Iwi data needs](https://www.kahuiraraunga.io/_files/ugd/b8e45c_4ecefb8047ab4162a3ff07468af5a27d.pdf)
+
 ## Helpful Websites on Māori Data
 
 ### [Te Mana Raraunga - Māori Data Sovereignty Network](https://www.temanararaunga.maori.nz/)
@@ -80,17 +88,14 @@ MBIE, 2019
 Berl, 2019
 
 A collection of reports and research from BERL on Te Ōhanga Māori. This includes:
-- [2018 Te Ōhanga Māori Report](https://berl.co.nz/sites/default/files/2021-01/Te%20Ōhanga%20Māori%202018.pdf)
 
+- [2018 Te Ōhanga Māori Report](https://berl.co.nz/sites/default/files/2021-01/Te%20Ōhanga%20Māori%202018.pdf)
 - [Māori Business Report](https://www.bdo.nz/en-nz/insights/maori-business/bdo%E2%80%99s-2019-maori-business-report-the-key-takeaways)
 BDO, 2019
-
 - [Māori in Business](https://www.mbie.govt.nz/assets/749791de0d/dec-2014-maori-in-business.pdf)
 MBIE, 2014
-
 - [Māori Business Report](https://home.kpmg/nz/en/home/insights/2017/06/maui-rau-from-signal-to-action.html)
 KPMG, 2017
-
 - [Māori Economy Investor Guide](https://www.nzte.govt.nz/about/news/news-and-features/maori-economy-investment-guide)
 NZTE, 2017
 
