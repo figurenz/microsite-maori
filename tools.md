@@ -19,6 +19,10 @@ Know of a tool we've missed? Contact <data@figure.nz> and let us know.
 [Te Whata - Free Iwi data tool](https://tewhata.io)
 Te Whata is an iwi data platform tailored specifically by iwi for iwi – by us for us. Te Whata is for iwi members, technicians and leaders – designers and users of data.
 
+### Economic Dashboard
+[Te Ōhanga Māori: The Māori economy](https://www.berl.co.nz/te-ohanga-maori)
+This dashboard shares the latest data and reports on Te Ōhanga Māori, including the latest research.
+
 ### Figure.NZ
 
 [Figure.NZ website](https://figure.nz)
@@ -33,9 +37,9 @@ A free tool to help you find data relevant to your business.
 
 Free education resources to help you understand and use data.
 
-[Employment and Covid19](https://www.notion.so/natd/COVID-19-Job-Impacts-930f46b6cb934dd282f99007e310c010)
+[Employment and COVID-19](https://www.notion.so/natd/COVID-19-Job-Impacts-930f46b6cb934dd282f99007e310c010)
 
-A free tool to help you examine how employment may be impact by COVID-19. See how many people work in different jobs, what they earn, and demographic breakdowns.
+A free tool to help you examine how employment may be impacted by COVID-19. See how many people work in different jobs, what they earn, and demographic breakdowns.
 
 ### Stats NZ
 
