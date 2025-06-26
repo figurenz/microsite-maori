@@ -17,10 +17,12 @@ Know of a tool we've missed? Contact <data@figure.nz> and let us know.
 ### Iwi Data
 
 [Te Whata - Free Iwi data tool](https://tewhata.io)
+
 Te Whata is an iwi data platform tailored specifically by iwi for iwi – by us for us. Te Whata is for iwi members, technicians and leaders – designers and users of data.
 
 ### Economic Dashboard
 [Te Ōhanga Māori: The Māori economy](https://www.berl.co.nz/te-ohanga-maori)
+
 This dashboard shares the latest data and reports on Te Ōhanga Māori, including the latest research.
 
 ### Figure.NZ
