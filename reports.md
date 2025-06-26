@@ -116,7 +116,7 @@ BERL, 2025
 ### [Te Puni Kōkiri Annual Report](https://www.tpk.govt.nz/en/mo-te-puni-kokiri/corporate-documents/corporate-publications/annual-reports/purongoatau-annual-report-2024)
 Te Puni Kōkiri, 2024
 
-### [Statistical snapshot of Māori in Care](https://www.occ.org.nz/assets/Uploads/20200116-OCC-StatisticalSnapshot.pdf)
+### [Statistical snapshot of Māori in Care](https://www.manamokopuna.org.nz/documents/202/20200116-OCC-StatisticalSnapshot.pdf)
 Oranga Tamariki, 2020 
 
 
