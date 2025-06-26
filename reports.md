@@ -153,7 +153,7 @@ BERL, 2022
 
 ## COVID-19
 
-### [Ka whati te tai: a generation disrupted. The challenges and opportunities for Māori in the new work order post COVID-19](http://www.maorifutures.co.nz/wp-content/uploads/2020/06/Tokona-Te-Raki-Ka-whati-te-tai.pdf)
+### [Ka whati te tai: a generation disrupted. The challenges and opportunities for Māori in the new work order post COVID-19](https://web.archive.org/web/20210207183049/https://www.maorifutures.co.nz/wp-content/uploads/2020/06/Tokona-Te-Raki-Ka-whati-te-tai.pdf)
 Tokona Te Raki and BERL, 2020
 
 ### [COVID-19 Maori Economic Impact](https://static.infometrics.co.nz/Content/Infometrics_M%C4%81ori_Webinar_Slide_Pack_2020-05-05.pdf)
