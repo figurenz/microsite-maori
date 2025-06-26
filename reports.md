@@ -57,7 +57,7 @@ Part of the Iwi Chair Forum established in 2005. This group exists to help infor
 ### [IMSB Māori Values Report](https://www.imsb.maori.nz/value-reports/introduction/)
 Independent Māori Statutory Board's report on Māori values and wellbeing, and collecting and using data related to this.
 
-### [IMSB Data Issues of Significance Report 2019](https://www.imsb.maori.nz/assets/sm/upload/pa/0z/vq/ww/IMSB%20Data%20Issues%202019_d.pdf?k=8451bdff4e)
+### [IMSB Data Issues of Significance Report 2019](https://static1.squarespace.com/static/65507e1f558bf41d336aaaf6/t/657e02529a3a5a5095095707/1702756987710/IMSB+Data+Issues+of+Significance+2019.pdf)
 Independent Māori Statutory Board's report on issues related to data around Māori wellbeing in Tāmaki Makaurau
 
 
