@@ -34,7 +34,7 @@ Karaitiana Taiuru, 2020
 
 Free eBook examining Te Tiriti and Māori ethics for data and emerging technology.
 
-### [Te Kāhui Raraunga](https://www.kahuiraraunga.io/ngā-hua-i-resources)
+### [Te Kāhui Raraunga](https://www.kahuiraraunga.io/nga-hua-i-resources)
 
 Research and papers from Te Kāhui Raraunga, an independent Māori data action group, including:
 
