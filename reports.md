@@ -98,7 +98,7 @@ MBIE, 2014
 ### [Māori Business Report](https://home.kpmg/nz/en/home/insights/2017/06/maui-rau-from-signal-to-action.html)
 KPMG, 2017
 
-### [Māori Economy Investor Guide](https://www.nzte.govt.nz/about/news/news-and-features/maori-economy-investment-guide)
+### [Māori Economy Investor Guide](https://www.wgtn.ac.nz/__data/assets/pdf_file/0010/1780957/Maori-Economy-Investment.pdf)
 NZTE, 2017
 
 
