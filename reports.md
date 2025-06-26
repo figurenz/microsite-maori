@@ -164,5 +164,3 @@ Figure.NZ, 2020
 
 ### [Stats NZ COVID-19 Data Portal](https://www.stats.govt.nz/experimental/covid-19-data-portal)
 Stats NZ, 2020
-
-### [Te Ropū Whakakaupapa Urutā](https://www.uruta.maori.nz/)
