@@ -10,7 +10,7 @@ isHome: false
 
 ## Why is Māori data important?
 
-### [Value of the Census for Maori 2019](https://www.stats.govt.nz/assets/Uploads/Reports/Value-of-the-census-for-Maori/Value-of-the-census-for-Maori.pdf)
+### [Value of the Census for Maori](https://www.stats.govt.nz/assets/Uploads/Reports/Value-of-the-census-for-Maori/Value-of-the-census-for-Maori.pdf)
 Stats NZ, 2019
 
 ### [Economy of Mana - Where to next?](http://www.journal.mai.ac.nz/journal/mai-journal-2018-volume-7-issue-1)
