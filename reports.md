@@ -72,7 +72,7 @@ Chapman Tripp, 2023.
 ### [Te Ōhanga Wāhine Māori: The Māori Women's Economy](https://www.berl.co.nz/our-mahi/te-ohanga-wahine-maori)
 BERL, 2024.
 
-### [Te Matapaeroa 2019](https://www.tpk.govt.nz/en/a-matou-mohiotanga/business-and-economics/te-matapaeroa-2019)
+### [Te Matapaeroa 2019](https://www.tpk.govt.nz/en/nga-putea-me-nga-ratonga/maori-enterprise/te-matapaeroa)
 Te Puni Kōkiri, 2020
 
 This research outlines the number and breadth of economically significant Māori-owned businesses and provides a clearer picture of the contribution of Māori to the wider economy.
