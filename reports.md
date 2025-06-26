@@ -137,7 +137,7 @@ Ministry of Health
 ### [Tatau Kahukura: Māori Health Chart Book](https://www.health.govt.nz/publications/tatau-kahukura-maori-health-chart-book-2024)
 Ministry of Health, 2024
 
-### [Gout insights – Impact on Māori](https://pharmac.govt.nz/about/access-equity/medicine-access-equity-monitoring-and-outcomes-framework/gout-insights-impact-on-maori/)
+### [Gout insights – Impact on Māori](https://www.pharmac.govt.nz/assets/Gout-insights-Impact-on-Maori-December-2021.pdf)
 Pharmac, 2021
 
 Analysis and data on health inequities for Māori in access to funded gout medication.
