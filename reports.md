@@ -29,7 +29,7 @@ Tahu Kukutai, John Taylor, 2016
 
 Free eBook looking at how the data rights and interests of indigenous peoples can be secured.
 
-### [Treaty of Waitangi/Te Tiriti and Māori Ethics Guidelines for AI, Algorithms, Data and IoT](https://www.taiuru.maori.nz/tiritiethicalguide/)
+### [Te Tiriti and Māori Ethics Guidelines for AI, Algorithms, Data and IoT](https://www.taiuru.maori.nz/tiritiethicalguide/)
 Karaitiana Taiuru, 2020
 
 Free eBook examining Te Tiriti and Māori ethics for data and emerging technology.
